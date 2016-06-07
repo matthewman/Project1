@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="question">What is your name?</string>
+</resources>
